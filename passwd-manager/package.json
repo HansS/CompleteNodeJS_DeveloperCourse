@@ -1,0 +1,19 @@
+{
+  "name": "passwd-manager",
+  "version": "1.0.0",
+  "description": "manage appliction passwords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "password"
+  ],
+  "author": "'Rick <'rickbates@frontier.com'>",
+  "license": "MIT",
+  "dependencies": {
+    "node-persist": "0.0.6"
+  }
+}
